@@ -1,0 +1,22 @@
+.wages_item__layout {
+    display: flex;
+    justify-content: space-between;
+
+    margin: 5px;
+    padding: 5px 20px;
+
+    background-color:#e0e0e0;
+    border-radius: 10px;
+
+    width: 225px;
+}
+
+.wages_item__delivery {
+    width: 40%;
+}
+.wages_item__account {
+    width: 30%;
+}
+.wages_item__manager_share {
+    width: 30%;
+}

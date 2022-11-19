@@ -1,0 +1,27 @@
+.select__layout_error {
+    color: #ff5757;
+}
+
+.select {
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px solid #6c757d;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.select option {
+    color: black;
+}
+
+.select__error {
+    border-color: #ff5757;
+}
+
+.select__attention {
+    color: #ff5757;
+}
+
+.select__message_error {
+    font-size: 0.8rem;
+}

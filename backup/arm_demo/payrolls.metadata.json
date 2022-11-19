@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"arm_demo.payrolls"}],"uuid":"834d50eb882643f6961a2abbf3355088"}

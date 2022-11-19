@@ -1,0 +1,14 @@
+.order_button_add__button {
+    color: #6c757d;
+    background: #FFFFFF;
+
+    box-sizing: border-box;
+    border: 1px solid #6c757d;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.order_button_add__button:hover {
+    background: #6c757d;
+    color: #FFFFFF;
+}

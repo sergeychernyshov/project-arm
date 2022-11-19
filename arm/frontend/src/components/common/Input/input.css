@@ -1,0 +1,19 @@
+.input__layout_error {
+    color: #ff5757;
+}
+
+.input {
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px solid #6c757d;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.input__error {
+    border-color: #ff5757;
+}
+
+.input__message {
+    font-size: 0.8rem;
+}

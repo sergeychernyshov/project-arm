@@ -1,0 +1,11 @@
+.payroll_form__textarea {
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px solid #6c757d;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.payroll_form button {
+    margin-top: 15px;
+}
