@@ -1,8 +1,0 @@
-.order_filter__row {
-    display: flex;
-    justify-content: space-between;
-}
-
-.order_filter__row div:not(:last-child) {
-    margin-right: 5px;
-}
